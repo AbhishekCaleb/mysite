@@ -3,16 +3,16 @@
   "aborted": false,
   "urls": [
     {
-      "url": "https://validate.perfdrive.com/ab466d675e06052c21f7cc4df3656c91/?ssa=1a000cd2-362d-495e-9755-bf15df7470a5&ssb=85617224207&ssc=https%3A%2F%2Fwww.spark.co.nz%2F&ssi=635be013-cv5f-43c8-8722-de5d91cf0254&ssk=botmanager_support@radware.com&ssm=26571081392784778106450292043222&ssn=d6cf30cac15cabbf817a7a19e616e56a8416f87ba50f-ce5b-4697-8c7444&sso=a5a20bc2-5f94aba88b91ebbc45b4a6f915d6c274de30dd5ade8cb69e&ssp=59227717381759266892175926331410537&ssq=46105671240055386014812400328461660332152&ssr=MjAuMTYxLjgwLjIxMA==&sst=node&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBmODdiYTUwZi1jZTViLTQ2OTctOGJjMi01Zjk0YWJhODhiOTExLTE3NTkyMTI0MDAxNTMwLTAwMTQ4M2QwYWQyYzUwMTU3ZGIxMCIsInJkIjoic3BhcmsuY28ubnoiLCJ1em14IjoiN2Y5MDAwN2Y3NGQ1ODAtNGZkNi00NGUyLWJjZWItY2VhYmUzM2ZmYzUxMS0xNzU5MjEyNDAwMTUzMC05YWZkYzYxNTQ0ZjM4MTkzMTAifQ==",
+      "url": "https://validate.perfdrive.com/ab466d675e06052c21f7cc4df3656c91/?ssa=54f6b357-174c-44c4-979f-d74d064ae88b&ssb=03619297978&ssc=https%3A%2F%2Fwww.spark.co.nz%2Fonline%2Fshop%2Fmobile-devices%2Ftrade-in&ssi=a6d3f203-cv5f-4f89-805a-be8eee70bfdf&ssk=botmanager_support@radware.com&ssm=61765978491319254100860137306485&ssn=2a5bf6f01974eff0c3c908b685fd50ecec61343fe2c9-026a-439f-96d6da&sso=973e35fb-8b50824d8447572f9ad54254a0e7ecb423b8b8e7ad1d5953&ssp=10297659591759264368175921859966039&ssq=44701681287569176605412875665022863947600&ssr=NjguMTU0LjEyMy4xMzc=&sst=node&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNwYXJrLmNvLm56IiwiX191em1mIjoiN2Y5MDAwMzQzZmUyYzktMDI2YS00MzlmLTk1ZmItOGI1MDgyNGQ4NDQ3MS0xNzU5MjEyODc1MTcxMC0wMDE1ZDllYzMzYjc2MjI1YzRlMTAiLCJ1em14IjoiN2Y5MDAwMTYyMDI5NjMtMWZiOS00ZmQzLWI2YTktYTJiZTcyODQwMWQwMS0xNzU5MjEyODc1MTcxMC04OTc4NzVlZGNhNTY0NTk4MTAifQ==",
       "source": "MANUAL",
       "targetPath": "/ab466d675e06052c21f7cc4df3656c91",
-      "id": "3b202574fdf5b94e7f903a09efff077f260e2e82"
+      "id": "350b6bd5bd5188c79233fe6d7409bf0ea96e64af"
     },
     {
-      "url": "https://www.spark.co.nz/online/shop/mobile-devices/trade-in",
+      "url": "https://validate.perfdrive.com/ab466d675e06052c21f7cc4df3656c91/?ssa=a0c35310-0112-4b20-9ce3-c347bf72f3dc&ssb=03619297978&ssc=https%3A%2F%2Fwww.spark.co.nz%2Fonline%2Fshop%2Fmobile-plans.html&ssi=72e8a1e6-cv5f-4880-a74a-274ba26ed12a&ssk=botmanager_support@radware.com&ssm=61765978491319254100860137306485&ssn=2a5bf6f07ae35670540835b1e82350ecec61a10e5710-45fb-4e6b-86d6da&sso=973e3ceb-234b74fceea5572f9ad5931807abcbb0e3fc0c2aad1d5953&ssp=10297659591759264368175921859966039&ssq=44701681287569176605412875665022863947600&ssr=NjguMTU0LjEyMy4xMzc=&sst=node&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNwYXJrLmNvLm56IiwiX191em1mIjoiN2Y5MDAwYTEwZTU3MTAtNDVmYi00ZTZiLThjZWItMjM0Yjc0ZmNlZWE1MS0xNzU5MjEyODc1ODgyMC0wMDE5ZDU1M2ExYWI1Njc4MWM2MTAiLCJ1em14IjoiN2Y5MDAwMTY5MjYyNWUtMGNhYS00ZmFjLWEwMzQtMjYwOWFhNjBkNzkwMS0xNzU5MjEyODc1ODgyMC03ZTU5Y2RiZjUxNTJmOGEyMTAifQ==",
       "source": "MANUAL",
-      "targetPath": "/online/shop/mobile-devices/trade-in",
-      "id": "36e4720d55509195f9414dad025b03769fe8df9c"
+      "targetPath": "/ab466d675e06052c21f7cc4df3656c91",
+      "id": "c2adc16ebd0c5a08b4e8f2f0348e6e1a4e4ee6d7"
     }
   ],
   "lastCrawled": "MANUAL",
@@ -30,9 +30,13 @@
   },
   "extractionErrors": [
     {
-      "message": "resource crawl error: Url https://www.spark.co.nz/: 302 Moved Temporarily Redirect: https://validate.perfdrive.com/ab466d675e06052c21f7cc4df3656c91/?ssa=1a000cd2-362d-495e-9755-bf15df7470a5&ssb=85617224207&ssc=https%3A%2F%2Fwww.spark.co.nz%2F&ssi=635be013-cv5f-43c8-8722-de5d91cf0254&ssk=botmanager_support@radware.com&ssm=26571081392784778106450292043222&ssn=d6cf30cac15cabbf817a7a19e616e56a8416f87ba50f-ce5b-4697-8c7444&sso=a5a20bc2-5f94aba88b91ebbc45b4a6f915d6c274de30dd5ade8cb69e&ssp=59227717381759266892175926331410537&ssq=46105671240055386014812400328461660332152&ssr=MjAuMTYxLjgwLjIxMA==&sst=node&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBmODdiYTUwZi1jZTViLTQ2OTctOGJjMi01Zjk0YWJhODhiOTExLTE3NTkyMTI0MDAxNTMwLTAwMTQ4M2QwYWQyYzUwMTU3ZGIxMCIsInJkIjoic3BhcmsuY28ubnoiLCJ1em14IjoiN2Y5MDAwN2Y3NGQ1ODAtNGZkNi00NGUyLWJjZWItY2VhYmUzM2ZmYzUxMS0xNzU5MjEyNDAwMTUzMC05YWZkYzYxNTQ0ZjM4MTkzMTAifQ==",
-      "url": "https://www.spark.co.nz/"
+      "message": "resource crawl error: Url https://www.spark.co.nz/online/shop/mobile-devices/trade-in: 302 Moved Temporarily Redirect: https://validate.perfdrive.com/ab466d675e06052c21f7cc4df3656c91/?ssa=54f6b357-174c-44c4-979f-d74d064ae88b&ssb=03619297978&ssc=https%3A%2F%2Fwww.spark.co.nz%2Fonline%2Fshop%2Fmobile-devices%2Ftrade-in&ssi=a6d3f203-cv5f-4f89-805a-be8eee70bfdf&ssk=botmanager_support@radware.com&ssm=61765978491319254100860137306485&ssn=2a5bf6f01974eff0c3c908b685fd50ecec61343fe2c9-026a-439f-96d6da&sso=973e35fb-8b50824d8447572f9ad54254a0e7ecb423b8b8e7ad1d5953&ssp=10297659591759264368175921859966039&ssq=44701681287569176605412875665022863947600&ssr=NjguMTU0LjEyMy4xMzc=&sst=node&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNwYXJrLmNvLm56IiwiX191em1mIjoiN2Y5MDAwMzQzZmUyYzktMDI2YS00MzlmLTk1ZmItOGI1MDgyNGQ4NDQ3MS0xNzU5MjEyODc1MTcxMC0wMDE1ZDllYzMzYjc2MjI1YzRlMTAiLCJ1em14IjoiN2Y5MDAwMTYyMDI5NjMtMWZiOS00ZmQzLWI2YTktYTJiZTcyODQwMWQwMS0xNzU5MjEyODc1MTcxMC04OTc4NzVlZGNhNTY0NTk4MTAifQ==",
+      "url": "https://www.spark.co.nz/online/shop/mobile-devices/trade-in"
+    },
+    {
+      "message": "resource crawl error: Url https://www.spark.co.nz/online/shop/mobile-plans.html: 302 Moved Temporarily Redirect: https://validate.perfdrive.com/ab466d675e06052c21f7cc4df3656c91/?ssa=a0c35310-0112-4b20-9ce3-c347bf72f3dc&ssb=03619297978&ssc=https%3A%2F%2Fwww.spark.co.nz%2Fonline%2Fshop%2Fmobile-plans.html&ssi=72e8a1e6-cv5f-4880-a74a-274ba26ed12a&ssk=botmanager_support@radware.com&ssm=61765978491319254100860137306485&ssn=2a5bf6f07ae35670540835b1e82350ecec61a10e5710-45fb-4e6b-86d6da&sso=973e3ceb-234b74fceea5572f9ad5931807abcbb0e3fc0c2aad1d5953&ssp=10297659591759264368175921859966039&ssq=44701681287569176605412875665022863947600&ssr=NjguMTU0LjEyMy4xMzc=&sst=node&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNwYXJrLmNvLm56IiwiX191em1mIjoiN2Y5MDAwYTEwZTU3MTAtNDVmYi00ZTZiLThjZWItMjM0Yjc0ZmNlZWE1MS0xNzU5MjEyODc1ODgyMC0wMDE5ZDU1M2ExYWI1Njc4MWM2MTAiLCJ1em14IjoiN2Y5MDAwMTY5MjYyNWUtMGNhYS00ZmFjLWEwMzQtMjYwOWFhNjBkNzkwMS0xNzU5MjEyODc1ODgyMC03ZTU5Y2RiZjUxNTJmOGEyMTAifQ==",
+      "url": "https://www.spark.co.nz/online/shop/mobile-plans.html"
     }
   ],
-  "errorCountMessage": "{\"E_302\":1}"
+  "errorCountMessage": "{\"E_302\":2}"
 }
