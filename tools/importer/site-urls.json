@@ -3,16 +3,16 @@
   "aborted": false,
   "urls": [
     {
-      "url": "https://signin.spark.co.nz/",
+      "url": "https://validate.perfdrive.com/ab466d675e06052c21f7cc4df3656c91/?ssa=1a000cd2-362d-495e-9755-bf15df7470a5&ssb=85617224207&ssc=https%3A%2F%2Fwww.spark.co.nz%2F&ssi=635be013-cv5f-43c8-8722-de5d91cf0254&ssk=botmanager_support@radware.com&ssm=26571081392784778106450292043222&ssn=d6cf30cac15cabbf817a7a19e616e56a8416f87ba50f-ce5b-4697-8c7444&sso=a5a20bc2-5f94aba88b91ebbc45b4a6f915d6c274de30dd5ade8cb69e&ssp=59227717381759266892175926331410537&ssq=46105671240055386014812400328461660332152&ssr=MjAuMTYxLjgwLjIxMA==&sst=node&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBmODdiYTUwZi1jZTViLTQ2OTctOGJjMi01Zjk0YWJhODhiOTExLTE3NTkyMTI0MDAxNTMwLTAwMTQ4M2QwYWQyYzUwMTU3ZGIxMCIsInJkIjoic3BhcmsuY28ubnoiLCJ1em14IjoiN2Y5MDAwN2Y3NGQ1ODAtNGZkNi00NGUyLWJjZWItY2VhYmUzM2ZmYzUxMS0xNzU5MjEyNDAwMTUzMC05YWZkYzYxNTQ0ZjM4MTkzMTAifQ==",
       "source": "MANUAL",
-      "targetPath": "/",
-      "id": "b22f5d8e92556e6896a24d09dd3133d5d7d3523e"
+      "targetPath": "/ab466d675e06052c21f7cc4df3656c91",
+      "id": "3b202574fdf5b94e7f903a09efff077f260e2e82"
     },
     {
-      "url": "https://www.spark.co.nz/",
+      "url": "https://www.spark.co.nz/online/shop/mobile-devices/trade-in",
       "source": "MANUAL",
-      "targetPath": "/",
-      "id": "3c7aa6daeee8213f0acb042753690d6cf3dae196"
+      "targetPath": "/online/shop/mobile-devices/trade-in",
+      "id": "36e4720d55509195f9414dad025b03769fe8df9c"
     }
   ],
   "lastCrawled": "MANUAL",
@@ -28,6 +28,11 @@
       "MANUAL"
     ]
   },
-  "extractionErrors": [],
-  "errorCountMessage": "none"
+  "extractionErrors": [
+    {
+      "message": "resource crawl error: Url https://www.spark.co.nz/: 302 Moved Temporarily Redirect: https://validate.perfdrive.com/ab466d675e06052c21f7cc4df3656c91/?ssa=1a000cd2-362d-495e-9755-bf15df7470a5&ssb=85617224207&ssc=https%3A%2F%2Fwww.spark.co.nz%2F&ssi=635be013-cv5f-43c8-8722-de5d91cf0254&ssk=botmanager_support@radware.com&ssm=26571081392784778106450292043222&ssn=d6cf30cac15cabbf817a7a19e616e56a8416f87ba50f-ce5b-4697-8c7444&sso=a5a20bc2-5f94aba88b91ebbc45b4a6f915d6c274de30dd5ade8cb69e&ssp=59227717381759266892175926331410537&ssq=46105671240055386014812400328461660332152&ssr=MjAuMTYxLjgwLjIxMA==&sst=node&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBmODdiYTUwZi1jZTViLTQ2OTctOGJjMi01Zjk0YWJhODhiOTExLTE3NTkyMTI0MDAxNTMwLTAwMTQ4M2QwYWQyYzUwMTU3ZGIxMCIsInJkIjoic3BhcmsuY28ubnoiLCJ1em14IjoiN2Y5MDAwN2Y3NGQ1ODAtNGZkNi00NGUyLWJjZWItY2VhYmUzM2ZmYzUxMS0xNzU5MjEyNDAwMTUzMC05YWZkYzYxNTQ0ZjM4MTkzMTAifQ==",
+      "url": "https://www.spark.co.nz/"
+    }
+  ],
+  "errorCountMessage": "{\"E_302\":1}"
 }
