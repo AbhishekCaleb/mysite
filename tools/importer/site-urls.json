@@ -3,10 +3,10 @@
   "aborted": false,
   "urls": [
     {
-      "url": "https://www.spark.co.nz/online/shop/mobile-devices/trade-in",
+      "url": "https://www.spark.co.nz/online/shop/mobile-plans",
       "source": "MANUAL",
-      "targetPath": "/online/shop/mobile-devices/trade-in",
-      "id": "36e4720d55509195f9414dad025b03769fe8df9c"
+      "targetPath": "/online/shop/mobile-plans",
+      "id": "611442ef913acdcfeda4c23ddf7b547d1f637437"
     }
   ],
   "lastCrawled": "MANUAL",
